@@ -1,4 +1,4 @@
-# IO, Polling and Timers
+# IO, Polling, and Timers
 Working code for ECE243 Lab 3 (Winter 2023) at the University of Toronto. The goal is to learn how to use timers and pushbuttons. All code is written and debugged in ARM Assembly. To simulate the code, upload the code and compile using the ARMv7 [CPUlator online tool](https://cpulator.01xz.net/?sys=arm-de1soc "CPUlator"). See the lab handout for more information.
 
 ## Part 1
